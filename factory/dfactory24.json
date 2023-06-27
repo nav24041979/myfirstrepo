@@ -1,0 +1,9 @@
+{
+	"name": "dfactory24",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6950084b-7be4-4e83-bf35-63cf2116dc58",
+		"tenantId": "87903c9b-b889-46b2-96ca-f2c0fbb54940"
+	}
+}
